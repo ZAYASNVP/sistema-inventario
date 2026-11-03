@@ -10,7 +10,7 @@ class Producto {
 
     // Método para mostrar la información
     mostrarInformacion() {
-        console.log("----- INFORMACIÓN DEL PRODUCTO -----");
+        console.log("-----  PRODUCTO -----");
         console.log("Código: " + this.codigo);
         console.log("Nombre: " + this.nombre);
         console.log("Precio: $" + this.precio);
